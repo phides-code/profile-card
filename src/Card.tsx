@@ -157,6 +157,9 @@ const StyledButton = styled.button<StyledComponentProps>`
     padding: 0.8rem;
     border-radius: 5px;
     border: 1px solid black;
+    &:hover {
+        background-color: ${PinkShadow};
+    }
 `;
 const FollowButton = styled(StyledButton)`
     margin: ${(props) =>
