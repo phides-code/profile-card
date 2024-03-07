@@ -1,9 +1,13 @@
 import { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Card from './Card';
+import profileJson from './data/profile.json';
+import { Profile } from './types';
 
 const App = () => {
     const [isMobile, setisMobile] = useState<boolean>(false);
+
+    const profile: Profile = profileJson;
 
     useEffect(() => {
         const detectMobile = () => {
@@ -27,7 +31,7 @@ const App = () => {
 
     return (
         <Wrapper>
-            <Card isMobile={isMobile} />
+            <Card isMobile={isMobile} profile={profile} />
         </Wrapper>
     );
 };

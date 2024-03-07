@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "name": "John Deo",
+            "title": "Frontend Developer",
+            "description": "Passionate frontend developer with expertise in HTML, CSS, JavaScript, and React.",
+            "followers": 1999,
+            "following": 190,
+            "projects": 15
+        },
+        {
+            "name": "Maria Lopez",
+            "title": "UX Designer",
+            "description": "Experienced UX designer specializing in creating intuitive and user-friendly interfaces.",
+            "followers": 2500,
+            "following": 300,
+            "projects": 20
+        },
+        {
+            "name": "Ahmed Khan",
+            "title": "Data Scientist",
+            "description": "Data scientist with a passion for extracting insights from complex datasets.",
+            "followers": 1800,
+            "following": 150,
+            "projects": 10
+        },
+        {
+            "name": "Jasmine Patel",
+            "title": "Marketing Manager",
+            "description": "Creative marketing professional with a focus on digital strategies and brand management.",
+            "followers": 3000,
+            "following": 250,
+            "projects": 25
+        },
+        {
+            "name": "Liang Chen",
+            "title": "Software Engineer",
+            "description": "Software engineer with a background in full-stack web development and cloud technologies.",
+            "followers": 2200,
+            "following": 180,
+            "projects": 18
+        },
+        {
+            "name": "Fatima Ali",
+            "title": "Product Manager",
+            "description": "Product manager specializing in Agile methodologies and product roadmap planning.",
+            "followers": 2800,
+            "following": 220,
+            "projects": 22
+        },
+        {
+            "name": "Rahul Sharma",
+            "title": "Business Analyst",
+            "description": "Experienced business analyst with a focus on data-driven insights and market research.",
+            "followers": 1900,
+            "following": 160,
+            "projects": 12
+        },
+        {
+            "name": "Yuki Tanaka",
+            "title": "Graphic Designer",
+            "description": "Creative graphic designer with a flair for branding, typography, and digital illustrations.",
+            "followers": 2600,
+            "following": 200,
+            "projects": 21
+        },
+        {
+            "name": "Diego Santos",
+            "title": "UI Developer",
+            "description": "Skilled UI developer with a focus on responsive design and accessibility.",
+            "followers": 2400,
+            "following": 190,
+            "projects": 19
+        },
+        {
+            "name": "Ayaka Nakamura",
+            "title": "Content Writer",
+            "description": "Creative content writer specializing in SEO-friendly copywriting and storytelling.",
+            "followers": 3100,
+            "following": 260,
+            "projects": 30
+        }
+    ]
+]

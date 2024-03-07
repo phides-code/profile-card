@@ -1,0 +1,9 @@
+{
+    "name": "John Deo",
+    "title": "Frontend Developer",
+    "description": "Passionate frontend developer with expertise in HTML, CSS, JavaScript, and React.",
+    "followers": 1999,
+    "following": 190,
+    "projects": 15,
+    "profile_pic_url": "./john-deo.png"
+}
